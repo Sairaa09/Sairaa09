@@ -9,9 +9,10 @@
 
 # 📊 Data Science Journey (Currently Learning)
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,js,react" />
+
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
