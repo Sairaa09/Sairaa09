@@ -1,30 +1,65 @@
-<h1 align="center">🚀 Hi, I'm Mohsin Ali 👋</h1>
+# 👩‍💻 Hi, I'm Saira Ashraf 🚀
 
 ---
-![Python](https://img.shields.io/badge/Python-Learning-blue)
-![AI](https://img.shields.io/badge/AI-Future%20Engineer-gold)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Learning-black)
-# 🛠️ Tech Journey (Currently Learning)
+
+![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
+![Data Science](https://img.shields.io/badge/Data%20Science-Learning-purple)
+![AI](https://img.shields.io/badge/AI-Future%20Data%20Scientist-gold)
+![Frontend](https://img.shields.io/badge/Frontend-Basic%20Skills-black)
+
+# 📊 Data Science Journey (Currently Learning)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,js,react" />
 </p>
 
 📚 Currently learning:
 - 🐍 Python Programming
-- 🌐 Full Stack Development Fundamentals
-- ⚡ Git & GitHub
+- 📊 Data Analysis & Visualization
+- 🧹 Data Cleaning & Preprocessing
+- 📈 Statistics for Data Science
 - 🤖 Artificial Intelligence Basics
-- 🦾 Robotics & Automation
+- 🌐 Frontend Development (React & Tailwind)
+
+---
+
+# 🛠️ Skills
+
+✅ Python  
+✅ Pandas & NumPy  
+✅ Data Cleaning  
+✅ Data Visualization  
+✅ Matplotlib & Seaborn  
+✅ Excel  
+✅ SQL Basics  
+✅ Git & GitHub  
+✅ HTML, CSS & JavaScript  
+✅ React & Tailwind CSS  
+
+---
+
+# 📂 Projects
+
+### 🎮 Video Game Sales Analysis
+- Cleaned and analyzed sales data using Python and Pandas.
+- Created visualizations to identify trends and genre popularity.
+
+### 📊 Exploratory Data Analysis (EDA)
+- Used charts and statistical techniques to analyze datasets.
+- Explored patterns, relationships, and insights from data.
+
+### 🧹 Data Cleaning Practice Projects
+- Worked on messy datasets by handling missing values and formatting issues.
+- Performed preprocessing using Pandas and NumPy.
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohsin-Ali-Tech47&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin-Ali-Tech47&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sairaa09&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaa09&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -32,45 +67,36 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohsin-Ali-Tech47&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Sairaa09&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
 # 🚀 Current Focus
 
-✅ Improving Python Skills  
-✅ Building Real Projects  
-✅ Learning Full Stack Development  
-✅ Exploring AI & Robotics  
-✅ Becoming Better Every Day 💪
+✅ Improving Python & Data Analysis Skills  
+✅ Building Real Data Science Projects  
+✅ Learning AI & Machine Learning Fundamentals  
+✅ Strengthening Statistics Concepts  
+✅ Growing Through Continuous Learning 💪
 
 ---
 
-# 🏆 Future Goals
+# 🎯 Future Goals
 
-🎯 Become a World-Class AI & Robotics Engineer  
-🎯 Master Full Stack Development  
-🎯 Build a Real-Life AI Assistant (JARVIS Inspired) 🤖  
-🎯 Build High-Impact Technology for Humanity 🌍  
-🎯 Contribute to Future Innovations 🚀
+🎯 Become a Skilled Data Scientist  
+🎯 Master Machine Learning & AI  
+🎯 Work on Real-World Data Problems  
+🎯 Build Useful AI-Based Solutions  
+🎯 Continue Learning & Growing 🚀
 
 ---
 
 # 🌐 Connect With Me
 
-📧 **Email:** mohsinali.tech47@gmail.com  
-💼 **LinkedIn:** Coming Soon 🚧  
-🌍 **Portfolio Website:** Coming Soon 🚧  
-🐦 **X / Twitter:** Coming Soon 🚧
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mohsin-Ali-Tech47/Mohsin-Ali-Tech47/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+📧 **Email:** sairaashraf805@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/saira-ashraf-2a1b71337  
+🌍 **GitHub:** https://github.com/Sairaa09
 
 ---
 
@@ -82,5 +108,5 @@
 ---
 
 <p align="center">
-✨ <b>Always Learning • Always Building • Never Quitting</b> ✨
+✨ <b>Always Learning • Always Improving • Never Giving Up</b> ✨
 </p>
