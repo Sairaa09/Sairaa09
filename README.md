@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Learning-purple)
 ![AI](https://img.shields.io/badge/AI-Future%20Data%20Scientist-gold)
-![Frontend](https://img.shields.io/badge/Frontend-Basic%20Skills-black)
+![Frontend](https://img.shields.io/badge/Website-Developer%20Skills-black)
 
 # 📊 Data Science Journey (Currently Learning)
 
@@ -114,7 +114,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohsin-Ali-Tech47/Mohsin-Ali-Tech47/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Mohsin-Ali-Tech47/Mohsin-Ali-Tech47/output/github-contribution-grid-snake-light.svg" alt="snake animation" />
 </p>
 ---
 
