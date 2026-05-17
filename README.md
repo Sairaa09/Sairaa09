@@ -10,7 +10,7 @@
 # 📊 Data Science Journey (Currently Learning)
 
 <p align="center">
-```html id="n4r7mx"
+
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,js,react" />
 
 <p align="center">
