@@ -10,7 +10,7 @@
 # 📊 Data Science Journey (Currently Learning)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,mysql,git,github,vscode,html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=python,matplotlib,seaborn,mysql,git,github,vscode,html,css,js,react" />
 </p>
 
 📚 Currently learning:
